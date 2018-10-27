@@ -1,2 +1,4 @@
 name: Fernando Feitosa
 markdown: kramdown
+
+theme: jekyll-theme-minimal
